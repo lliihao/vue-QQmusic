@@ -1,3 +1,5 @@
+# Notice：此为@timelessover的项目，目前我只是基本看懂了源码，还未开始自己做
+
 # 基于Vue-cli3重写vue-QQmusic
 
 
